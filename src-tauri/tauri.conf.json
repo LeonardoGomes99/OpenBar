@@ -35,16 +35,17 @@
     },
     "updater": {
       "active": false
-    },
+    },    
     "windows": [
       {
         "fullscreen": false,
         "title": "",
         "decorations": false,
         "resizable": false,
+        "fileDropEnabled": true,
         "width": 900,
         "height": 55,
-        "x": 500,
+        "x": 800,
         "y": 0
       }
     ]    

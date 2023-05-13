@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Steam",
+        "path": "C:\\Program Files (x86)\\Steam\\steam.exe",
+        "icon": "steam.svg"
+    },
+    {
+        "name": "Ryujinx",
+        "path": "D:\\Games\\Emulador\\Switch\\Ryujinx\\Ryujinx.exe",
+        "icon": "ryu.png"
+    },
+    {
+        "name": "RPCS3",
+        "path": "D:\\Games\\Emulador\\PS3\\rpcs3.exe",
+        "icon": "rpcs3.png"
+    }
+]
